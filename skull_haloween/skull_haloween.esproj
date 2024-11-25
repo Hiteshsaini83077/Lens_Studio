@@ -1,0 +1,38 @@
+studioVersion:
+  major: 5
+  minor: 1
+  patch: 0
+  build: 24091700
+updateCheckpoint: 48
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+viewConfig:
+  simulation:
+    device: No Simulation
+    cameraFov: 66.519997
+    fullFrameAspect: nan
+    viewport: Maximized
+    output: Live
+    stereoOutputEye: Center
+    deviceTypeOverride: Unknown
+  cameraType: Front
+metaInfo:
+  hints:
+    []
+  tags:
+    - BGCLS24
+    - BSFLS24
+  lensName: haloween mask
+  lensDescriptors:
+    []
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Mobile
+    - Web
+  iconHash: 3067505068d159919c5d4248d5c3b1ed
+  videoPreviewHash: 6d76d20b507003c868ffd5ed196ba178
+  fromTemplateName: Default
+  fromTemplateUrl: Lens Studio 5.0.19.24082102
+  activationCamera: Front
+  sourceMapEnabled: false

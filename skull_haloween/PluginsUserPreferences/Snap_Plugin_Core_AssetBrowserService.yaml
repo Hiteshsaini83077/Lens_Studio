@@ -1,0 +1,6 @@
+ExternalSources:
+  type: "std::map<class Es::Uuid,class Es::Path,struct std::less<class Es::Uuid>,class std::allocator<struct std::pair<class Es::Uuid const ,class Es::Path> > >"
+  value:
+    - a8bfa99a-078e-42e1-ac04-b0bc9ff257f3: "C:/Users/HITESH/Downloads/Inferno_Skull_1008112016.glb"
+    - c68a1ef2-24b9-4762-8db1-55462a56cb3c: "C:/Users/HITESH/Downloads/a18c5f27-8526-4647-b229-67f57c419a7a.png"
+  options: 4

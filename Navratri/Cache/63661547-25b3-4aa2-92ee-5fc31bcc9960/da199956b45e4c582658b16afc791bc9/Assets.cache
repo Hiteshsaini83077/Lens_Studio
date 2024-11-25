@@ -1,0 +1,15 @@
+- !<AssetCache/da199956-b45e-4c58-2658-b16afc791bc9>
+  AssetFiles:
+    1384d0af-8077-4b2b-bab8-ea22db4aef58: 63661547-25b3-4aa2-92ee-5fc31bcc9960/da199956b45e4c582658b16afc791bc9/Data/chunu1 1.png
+  AssetCurrentFiles:
+    1384d0af-8077-4b2b-bab8-ea22db4aef58: 63661547-25b3-4aa2-92ee-5fc31bcc9960/da199956b45e4c582658b16afc791bc9/Data/Performance/Medium/chunu1 1.pvr
+  Assets:
+    - !<FileTexture/1384d0af-8077-4b2b-bab8-ea22db4aef58>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 163
+        Height: 310
+  SourceHash: da199956b45e4c582658b16afc791bc9
+  FileHash: 5fc8e14913b31b666a434833c3ef55c9
+  NativePackageItems:
+    []

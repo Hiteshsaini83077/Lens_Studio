@@ -1,0 +1,52 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 46
+    values:
+      - 123.png
+      - 61I3CKbEI8L._AC_UF894_1000_QL80_-removebg-preview (1).png
+      - Base.png
+      - Behavior
+      - Behavior/Behavior.js
+      - Behavior/Behavior.prefab
+      - Colorful_Decorative_S_1002063658.glb
+      - Colorful_Decorative_S_1002063658.glb/.hidden
+      - Colorful_Decorative_S_1002063658.glb/.hidden/Material 1
+      - Colorful_Decorative_S_1002063658.glb/Colorful_Decorative_S_1002063658
+      - Colorful_Decorative_S_1002063658.glb/Materials
+      - Colorful_Decorative_S_1002063658.glb/Materials/Material 1
+      - Colorful_Decorative_S_1002063658.glb/Meshes
+      - Colorful_Decorative_S_1002063658.glb/Meshes/Mesh 1
+      - Colorful_Decorative_S_1002063658.glb/Textures
+      - Colorful_Decorative_S_1002063658.glb/Textures/texture
+      - Face Mesh.facemesh
+      - Face Mesh.mat
+      - FaceMeshTexture.jpg
+      - Head 1.mesh
+      - Head Mesh.facemesh
+      - Head.mesh
+      - Image 1.mat
+      - Image 2.mat
+      - Image 4.mat
+      - Image.mat
+      - Image.png
+      - ImageMaterial 1.mat
+      - ImageMaterial 2.mat
+      - ImageMaterial.mat
+      - MaterialParams.png
+      - Normal.png
+      - Object Tracking - Hand Tracking 2D.prefab
+      - Occluder 1.mat
+      - Occluder.mat
+      - PBR.mat
+      - WhatsApp_Image_2024-10-02_at_19.23.23_7243fdd7-removebg-preview 1.png
+      - WhatsApp_Image_2024-10-02_at_19.23.23_7243fdd7-removebg-preview.png
+      - face_mesh.ss_graph
+      - flat 1.ss_graph
+      - flat.ss_graph
+      - image_unlit 1.ss_graph
+      - image_unlit 2.ss_graph
+      - image_unlit.ss_graph
+      - occluder.ss_graph
+      - pbr.ss_graph
+  options: 4

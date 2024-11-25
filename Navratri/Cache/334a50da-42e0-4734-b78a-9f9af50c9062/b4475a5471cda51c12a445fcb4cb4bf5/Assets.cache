@@ -1,0 +1,15 @@
+- !<AssetCache/b4475a54-71cd-a51c-12a4-45fcb4cb4bf5>
+  AssetFiles:
+    aabe992f-c779-4c9e-b31f-035891278f74: 334a50da-42e0-4734-b78a-9f9af50c9062/b4475a5471cda51c12a445fcb4cb4bf5/Data/WhatsApp_Image_2024-10-02_at_19.23.23_7243fdd7-removebg-preview.png
+  AssetCurrentFiles:
+    aabe992f-c779-4c9e-b31f-035891278f74: 334a50da-42e0-4734-b78a-9f9af50c9062/b4475a5471cda51c12a445fcb4cb4bf5/Data/Performance/Medium/WhatsApp_Image_2024-10-02_at_19.23.23_7243fdd7-removebg-preview.pvr
+  Assets:
+    - !<FileTexture/aabe992f-c779-4c9e-b31f-035891278f74>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 260
+        Height: 280
+  SourceHash: b4475a5471cda51c12a445fcb4cb4bf5
+  FileHash: ffc03a8ceb6eb4b5dfea9d0ec922ab3f
+  NativePackageItems:
+    []

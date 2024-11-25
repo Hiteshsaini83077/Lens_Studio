@@ -1,0 +1,49 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 43
+    values:
+      - GPU Particles.mat
+      - GPUParticlesMesh.mesh
+      - GPUParticlesTexture.png
+      - Head 1.mesh
+      - Head.mesh
+      - Image 1.mat
+      - Image.mat
+      - Image.png
+      - ImageMaterial.mat
+      - Occluder 1.mat
+      - Occluder.mat
+      - baseball_cap.glb
+      - baseball_cap.glb/.hidden
+      - baseball_cap.glb/.hidden/baseballCap
+      - baseball_cap.glb/Materials
+      - baseball_cap.glb/Materials/baseballCap
+      - baseball_cap.glb/Materials/blinn1SG
+      - baseball_cap.glb/Materials/plastic
+      - baseball_cap.glb/Meshes
+      - baseball_cap.glb/Meshes/baseballCap
+      - baseball_cap.glb/Meshes/baseballCap1
+      - baseball_cap.glb/Meshes/baseballCap2
+      - baseball_cap.glb/Meshes/baseballCap3
+      - baseball_cap.glb/Meshes/blinn1SG
+      - baseball_cap.glb/Meshes/plastic
+      - baseball_cap.glb/Meshes/plastic1
+      - baseball_cap.glb/Textures
+      - baseball_cap.glb/Textures/texture
+      - baseball_cap.glb/Textures/texture 2
+      - baseball_cap.glb/Textures/texture1
+      - baseball_cap.glb/baseball_cap
+      - bottle-removebg-preview 1.png
+      - bottle-removebg-preview 2.png
+      - bottle-removebg-preview.png
+      - flat.ss_graph
+      - gpu_particles.ss_graph
+      - image_unlit.ss_graph
+      - no-plastic-sign-say-no-plastic-bags-and-bottles-emblem-stop-plastics-waste-pollution-vector-icon-saving-nature-symbol-design-on-white-TARJX9-removebg-preview.png
+      - occluder 1.ss_graph
+      - occluder.ss_graph
+      - plastic_text-removebg-preview 1.png
+      - plastic_text-removebg-preview.png
+      - uber_pbr.ss_graph
+  options: 4

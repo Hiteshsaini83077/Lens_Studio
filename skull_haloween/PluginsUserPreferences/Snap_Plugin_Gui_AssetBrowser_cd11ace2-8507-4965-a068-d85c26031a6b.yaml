@@ -1,0 +1,28 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 22
+    values:
+      - Echopark.hdr
+      - Face Mask.mat
+      - FaceMask.png
+      - FaceMaskOpacity.jpg
+      - Head.mesh
+      - ImageMaterial 1.mat
+      - ImageMaterial.mat
+      - Inferno_Skull_1008112016.glb/.hidden
+      - Inferno_Skull_1008112016.glb/.hidden/Material 1
+      - Inferno_Skull_1008112016.glb/Inferno_Skull_1008112016
+      - Inferno_Skull_1008112016.glb/Materials
+      - Inferno_Skull_1008112016.glb/Materials/Material 1
+      - Inferno_Skull_1008112016.glb/Meshes
+      - Inferno_Skull_1008112016.glb/Meshes/Mesh 1
+      - Inferno_Skull_1008112016.glb/Textures
+      - Inferno_Skull_1008112016.glb/Textures/texture
+      - Occluder.mat
+      - a18c5f27-8526-4647-b229-67f57c419a7a.png
+      - flat.ss_graph
+      - image_unlit.ss_graph
+      - images__1_-removebg-preview.png
+      - occluder.ss_graph
+  options: 4

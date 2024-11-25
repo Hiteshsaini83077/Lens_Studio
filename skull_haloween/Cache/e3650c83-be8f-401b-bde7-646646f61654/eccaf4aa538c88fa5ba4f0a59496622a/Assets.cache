@@ -1,0 +1,15 @@
+- !<AssetCache/eccaf4aa-538c-88fa-5ba4-f0a59496622a>
+  AssetFiles:
+    c3030c9f-f100-4e70-855e-9f9c353d3595: e3650c83-be8f-401b-bde7-646646f61654/eccaf4aa538c88fa5ba4f0a59496622a/Data/FaceMaskOpacity.jpg
+  AssetCurrentFiles:
+    c3030c9f-f100-4e70-855e-9f9c353d3595: e3650c83-be8f-401b-bde7-646646f61654/eccaf4aa538c88fa5ba4f0a59496622a/Data/Performance/Medium/FaceMaskOpacity.pvr
+  Assets:
+    - !<FileTexture/c3030c9f-f100-4e70-855e-9f9c353d3595>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 500
+        Height: 667
+  SourceHash: eccaf4aa538c88fa5ba4f0a59496622a
+  FileHash: 5727a3ec4e3da66f62f2db15a1c69996
+  NativePackageItems:
+    []

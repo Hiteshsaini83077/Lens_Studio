@@ -1,0 +1,15 @@
+- !<AssetCache/b3c8d447-21c4-74d0-2636-168b8b406e12>
+  AssetFiles:
+    8aeefccb-ffdb-4d44-be7a-e7e219ea3b8e: 2c71ec7f-d23a-4f69-a112-233e298e1602/b3c8d44721c474d02636168b8b406e12/Data/istockphoto.jpg
+  AssetCurrentFiles:
+    8aeefccb-ffdb-4d44-be7a-e7e219ea3b8e: 2c71ec7f-d23a-4f69-a112-233e298e1602/b3c8d44721c474d02636168b8b406e12/Data/Performance/Medium/istockphoto.pvr
+  Assets:
+    - !<FileTexture/8aeefccb-ffdb-4d44-be7a-e7e219ea3b8e>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 612
+        Height: 344
+  SourceHash: b3c8d44721c474d02636168b8b406e12
+  FileHash: 2b17f284f38ecbbdc87c6479ac3bcae5
+  NativePackageItems:
+    []

@@ -1,0 +1,15 @@
+- !<AssetCache/3e842bea-85b5-cbf8-3b5f-eb25d5814c7a>
+  AssetFiles:
+    dedfae32-019f-47fe-8bf3-453c18dd5ce8: e4c18856-283a-48e5-9bf1-86517d40b819/3e842bea85b5cbf83b5feb25d5814c7a/Data/create haloween scary mask in which we c.jpg
+  AssetCurrentFiles:
+    dedfae32-019f-47fe-8bf3-453c18dd5ce8: e4c18856-283a-48e5-9bf1-86517d40b819/3e842bea85b5cbf83b5feb25d5814c7a/Data/Performance/Medium/create haloween scary mask in which we c.pvr
+  Assets:
+    - !<FileTexture/dedfae32-019f-47fe-8bf3-453c18dd5ce8>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 378
+        Height: 512
+  SourceHash: 3e842bea85b5cbf83b5feb25d5814c7a
+  FileHash: 53413be3ceb33e3a67566e784638b7e5
+  NativePackageItems:
+    []

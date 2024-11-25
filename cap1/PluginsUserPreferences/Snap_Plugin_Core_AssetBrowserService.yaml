@@ -1,0 +1,6 @@
+ExternalSources:
+  type: "std::map<class Es::Uuid,class Es::Path,struct std::less<class Es::Uuid>,class std::allocator<struct std::pair<class Es::Uuid const ,class Es::Path> > >"
+  value:
+    - 98329184-2231-4cba-971f-fd9f8fc6066c: "C:/Users/HITESH/Downloads/plastic_text-removebg-preview.png"
+    - be87f6c7-ecbb-4b9e-b142-2b4c463bd92a: "C:/Users/HITESH/Downloads/bottle-removebg-preview.png"
+  options: 4

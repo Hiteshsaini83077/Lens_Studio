@@ -1,0 +1,15 @@
+- !<AssetCache/5282ab9b-9580-6b4d-a832-70655db17781>
+  AssetFiles:
+    42a224bd-cc36-42df-aa32-61d9d5c6b212: de54a07c-c31d-41ce-8743-e8203a70127c/5282ab9b95806b4da83270655db17781/Data/FaceMeshTexture.jpg
+  AssetCurrentFiles:
+    42a224bd-cc36-42df-aa32-61d9d5c6b212: de54a07c-c31d-41ce-8743-e8203a70127c/5282ab9b95806b4da83270655db17781/Data/Performance/Medium/FaceMeshTexture.pvr
+  Assets:
+    - !<FileTexture/42a224bd-cc36-42df-aa32-61d9d5c6b212>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 5282ab9b95806b4da83270655db17781
+  FileHash: ad1eaad5d7f103432400f8ffe8370fdb
+  NativePackageItems:
+    []

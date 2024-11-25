@@ -1,0 +1,15 @@
+- !<AssetCache/42a183ad-7680-7b85-68ac-c287ae7de303>
+  AssetFiles:
+    f457a8c6-7a92-4590-b047-14703e27c8ec: 28991791-941f-4d72-a586-fd8c900d2633/42a183ad76807b8568acc287ae7de303/Data/FaceMask.png
+  AssetCurrentFiles:
+    f457a8c6-7a92-4590-b047-14703e27c8ec: 28991791-941f-4d72-a586-fd8c900d2633/42a183ad76807b8568acc287ae7de303/Data/Performance/Medium/FaceMask.pvr
+  Assets:
+    - !<FileTexture/f457a8c6-7a92-4590-b047-14703e27c8ec>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1482
+        Height: 2000
+  SourceHash: 42a183ad76807b8568acc287ae7de303
+  FileHash: ca84a54b998f8706a79d1b90536f56e2
+  NativePackageItems:
+    []
