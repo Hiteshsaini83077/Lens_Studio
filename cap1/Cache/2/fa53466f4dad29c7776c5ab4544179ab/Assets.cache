@@ -1,0 +1,15 @@
+- !<AssetCache/fa53466f-4dad-29c7-776c-5ab4544179ab>
+  AssetFiles:
+    7fd88d4a-4233-43cf-be3d-c7d05389af3b: 3c1bf147-749c-45df-bf2a-2e1825caebee/fa53466f4dad29c7776c5ab4544179ab/Data/no-plastic-sign-say-no-plastic-bags-and-bottles-emblem-stop-plastics-waste-pollution-vector-icon-saving-nature-symbol-design-on-white-TARJX9-removebg-preview.png
+  AssetCurrentFiles:
+    7fd88d4a-4233-43cf-be3d-c7d05389af3b: 3c1bf147-749c-45df-bf2a-2e1825caebee/fa53466f4dad29c7776c5ab4544179ab/Data/no-plastic-sign-say-no-plastic-bags-and-bottles-emblem-stop-plastics-waste-pollution-vector-icon-saving-nature-symbol-design-on-white-TARJX9-removebg-preview.png
+  Assets:
+    - !<FileTexture/7fd88d4a-4233-43cf-be3d-c7d05389af3b>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 483
+        Height: 517
+  SourceHash: fa53466f4dad29c7776c5ab4544179ab
+  FileHash: 42350780ddec413df0eb4351d146c742
+  NativePackageItems:
+    []

@@ -1,0 +1,15 @@
+- !<AssetCache/ad72bfb0-87c3-f916-141e-8e67fd2cf204>
+  AssetFiles:
+    858506bf-f5fd-48c7-abbd-724787edf088: c124ba29-8daa-47bb-8eaa-1188f0c04606/ad72bfb087c3f916141e8e67fd2cf204/Data/plastic_text-removebg-preview 1.png
+  AssetCurrentFiles:
+    858506bf-f5fd-48c7-abbd-724787edf088: c124ba29-8daa-47bb-8eaa-1188f0c04606/ad72bfb087c3f916141e8e67fd2cf204/Data/Performance/Medium/plastic_text-removebg-preview 1.pvr
+  Assets:
+    - !<FileTexture/858506bf-f5fd-48c7-abbd-724787edf088>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 614
+        Height: 406
+  SourceHash: ad72bfb087c3f916141e8e67fd2cf204
+  FileHash: eb3d367a94b89c81dbec37b07dab08d5
+  NativePackageItems:
+    []

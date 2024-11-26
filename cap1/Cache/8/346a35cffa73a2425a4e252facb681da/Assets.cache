@@ -1,0 +1,15 @@
+- !<AssetCache/346a35cf-fa73-a242-5a4e-252facb681da>
+  AssetFiles:
+    8a809f04-f4c6-4b16-8c13-66c7177cf17d: 91e5a1d7-e9bb-40b7-a669-0ba63ef9cfa3/346a35cffa73a2425a4e252facb681da/Data/bottle-removebg-preview 2.png
+  AssetCurrentFiles:
+    8a809f04-f4c6-4b16-8c13-66c7177cf17d: 91e5a1d7-e9bb-40b7-a669-0ba63ef9cfa3/346a35cffa73a2425a4e252facb681da/Data/Performance/Medium/bottle-removebg-preview 2.pvr
+  Assets:
+    - !<FileTexture/8a809f04-f4c6-4b16-8c13-66c7177cf17d>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 500
+        Height: 500
+  SourceHash: 346a35cffa73a2425a4e252facb681da
+  FileHash: cc74c2675ec10f46d7c9091074b12aa6
+  NativePackageItems:
+    []
